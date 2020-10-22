@@ -6,6 +6,4 @@ This is Foodie, a delivery robot.
 
 Designers:
 
-Anela
-Mary
-Chako
+Anela, Mary, Chako
